@@ -109,3 +109,132 @@ fr:
     BOTTOM_RIGHT: Ci-dessous à droite
     REQUIRES_AUTH_LABEL: Seulement visible après la connexion
     REQUIRES_AUTH_LABEL_HELP: Si désactivé, le bouton sera toujours affiché si les plugins requis sont actifs.
+    
+bs:
+  PLUGIN_FRONTEND_EDIT_BUTTON:
+    ENABLED: Omogućeno
+    DISABLED: Onemogućeno
+    POSITION_LABEL: Položaj oznake
+    POSITION_LABEL_HELP: Gdje postaviti dugme na prednji deo
+    SHOW_LABEL: Prikaži tekst na dugmetu
+    SHOW_ICON: Prikaži ikonu na dugmetu
+    BUTTON_TEXT: Izmenite ovu stranicu
+    TOP_LEFT: Na vrhu lijevo
+    TOP_RIGHT: Vrh desno
+    BOTTOM_LEFT: Dole lijevo
+    BOTTOM_RIGHT: Donji desni
+    REQUIRES_AUTH_LABEL: Prikazuju se samo nakon prijave
+REQUIRES_AUTH_LABEL_HELP: Ako je deaktivirano, taster će se uvek prikazivati ako su potrebni dodatci aktivni.
+
+hr:
+  PLUGIN_FRONTEND_EDIT_BUTTON:
+    ENABLED: Omogućeno
+    DISABLED: Onemogućeno
+    POSITION_LABEL: Položaj naljepnice
+    POSITION_LABEL_HELP: Gdje staviti gumb na sučelju
+    SHOW_LABEL: Pokaži tekst na gumbu
+    SHOW_ICON: Prikaži ikonu na gumbu
+    BUTTON_TEXT: Uredite ovu stranicu
+    TOP_LEFT: Gore lijevo
+    TOP_RIGHT: Gore desno
+    BOTTOM_LEFT: Dno lijevo
+    BOTTOM_RIGHT: Dolje desno
+    REQUIRES_AUTH_LABEL: Vidljivo samo nakon prijave
+REQUIRES_AUTH_LABEL_HELP: Ako se deaktivira, gumb će uvijek biti prikazan ako su potrebni dodatni čekovi aktivni.
+
+el:
+  PLUGIN_FRONTEND_EDIT_BUTTON:
+    ENABLED: Ενεργοποιήθηκε
+    DISABLED: άτομα με ειδικές ανάγκες
+    POSITION_LABEL: Θέση ετικέτας
+    POSITION_LABEL_HELP: Πού να τοποθετήσετε το κουμπί στο μετωπικό
+    SHOW_LABEL: Εμφάνιση κειμένου στο κουμπί
+    SHOW_ICON: Εμφάνιση εικονιδίου στο κουμπί
+    BUTTON_TEXT: Επεξεργασία αυτής της σελίδας
+    TOP_LEFT: Πάνω αριστερά
+    TOP_RIGHT: Επάνω δεξιά
+    BOTTOM_LEFT: Κάτω αριστερά
+    BOTTOM_RIGHT: Κάτω δεξιά
+    REQUIRES_AUTH_LABEL: Εμφανίζεται μόνο μετά τη σύνδεση
+REQUIRES_AUTH_LABEL_HELP: Εάν απενεργοποιηθεί, το κουμπί θα εμφανίζεται πάντα εάν είναι ενεργοποιημένα τα απαραίτητα πρόσθετα.
+
+it:
+  PLUGIN_FRONTEND_EDIT_BUTTON:
+    ENABLED: Abilitato
+    DISABLED: Disabilitato
+    POSITION_LABEL: Posizione dell'etichetta
+    POSITION_LABEL_HELP: Dove mettere il pulsante sul frontend
+    SHOW_LABEL: Mostra testo sul pulsante
+    SHOW_ICON: Mostra icona sul pulsante
+    BUTTON_TEXT: Modifica questa pagina
+    TOP_LEFT: A sinistra in alto
+    TOP_RIGHT: In alto a destra
+    BOTTOM_LEFT: In basso a sinistra
+    BOTTOM_RIGHT: In basso a destra
+    REQUIRES_AUTH_LABEL: Visibile solo dopo il login
+REQUIRES_AUTH_LABEL_HELP: Se disattivato, il pulsante verrà sempre visualizzato se i plugin richiesti sono attivi.
+
+kr:
+  PLUGIN_FRONTEND_EDIT_BUTTON:
+    ENABLED: Vekirî
+    DISABLED: Bêmecel
+    POSITION_LABEL: Position
+    POSITION_LABEL_HELP: Li kudê li ser dorpêçê binivîse
+    SHOW_LABEL: Li ser pirtûkê nîşan bide
+    SHOW_ICON: Nîşan bide serşkokê
+    BUTTON_TEXT: Vê rûpelê biguherîne
+    TOP_LEFT: Çepê
+    TOP_RIGHT: Rastê
+    BOTTOM_LEFT: Jêrîn çep
+    BOTTOM_RIGHT: Binê rast
+    REQUIRES_AUTH_LABEL: Tenê piştî login
+REQUIRES_AUTH_LABEL_HELP: Heke qedexekirin, dê dê her timê nîşanî hebe ku pelên pêwist hewce ne.
+
+gl:
+  PLUGIN_FRONTEND_EDIT_BUTTON:
+    ENABLED: Activado
+    DISABLED: Desactivado
+    POSITION_LABEL: Posición de etiqueta
+    POSITION_LABEL_HELP: Mostrar a etiqueta
+    SHOW_LABEL: Mostrar a etiqueta
+    SHOW_ICON: Mostrar a icona no botón
+    BUTTON_TEXT: Editar
+    TOP_LEFT: Arriba á esquerda
+    TOP_RIGHT: Arriba á dereita
+    BOTTOM_LEFT: Abaixo á esquerda
+    BOTTOM_RIGHT: Abaixo á dereita
+    REQUIRES_AUTH_LABEL: Só visible despois do inicio de sesión
+REQUIRES_AUTH_LABEL_HELP: Se está desactivado, o botón sempre se mostrará se os complementos necesarios están activos.
+
+sr:
+  PLUGIN_FRONTEND_EDIT_BUTTON:
+    ENABLED: Омогућено
+    DISABLED: Онемогућено
+    POSITION_LABEL: Лабел Поситион
+    POSITION_LABEL_HELP: Гдје поставити дугме на предњи део
+    SHOW_LABEL: Прикажите текст на дугмету
+    SHOW_ICON: Покажите икону на дугмету
+    BUTTON_TEXT: Измените ову страницу
+    TOP_LEFT: Горе лево
+    TOP_RIGHT: Горе десно
+    BOTTOM_LEFT: Доњи леви
+    BOTTOM_RIGHT: Доле десно
+    REQUIRES_AUTH_LABEL: Видљиво само након пријаве
+REQUIRES_AUTH_LABEL_HELP: Ако је деактивирано, тастер ће се увек приказивати ако су потребни додаци активни.
+
+pt:
+  PLUGIN_FRONTEND_EDIT_BUTTON:
+    ENABLED: Ativado
+    DISABLED: Desativado
+    POSITION_LABEL: Posição da etiqueta
+    POSITION_LABEL_HELP: Onde colocar o botão na capa
+    SHOW_LABEL: Mostrar o rótulo
+    SHOW_ICON: Mostrar o ícone no botão
+    BUTTON_TEXT: Editar
+    TOP_LEFT: Canto superior esquerdo
+    TOP_RIGHT: Acima à direita
+    BOTTOM_LEFT: Inferior esquerda
+    BOTTOM_RIGHT: Abaixo à direita
+    REQUIRES_AUTH_LABEL: Visível somente após o login
+REQUIRES_AUTH_LABEL_HELP: Se estiver desativado, o botão será sempre exibido se os complementos necessários estiverem ativos.
+
